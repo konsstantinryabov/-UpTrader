@@ -1,1 +1,1 @@
-# -UpTrader
+# UpTrader
